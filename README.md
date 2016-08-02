@@ -28,7 +28,7 @@ paste your md5 string and hit enter
  - make loading animation
 
 ### Test
-![Test Image](http://imgur.com/a/ppMdY)
+![Test Image](http://i.imgur.com/XzJVWyw.png)
 
 ## My Website
 [Sefasaiddeniz.com](http://sefasaiddeniz.com/)
