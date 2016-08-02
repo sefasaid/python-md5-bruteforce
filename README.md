@@ -21,12 +21,12 @@ $ add md5
 paste your md5 string and hit enter
 
 ### Version
- 0.1
+ 0.2
 
 ### Todos
 
  - make loading animation
- - write to how many characters are
+ + write to how many characters are (done)
 
 ### Test
 ![Test Image](http://i.imgur.com/XzJVWyw.png)
