@@ -20,6 +20,7 @@ def _attack(chrs, inputt):
     start_time = time.time()
    
     for n in range(1, 31+1):
+      characterstart_time = time.time()
       print "\n[!] I'm at ", n , "-character"
       for xs in itertools.product(chrs, repeat=n):
           
@@ -36,7 +37,7 @@ def _attack(chrs, inputt):
               print "\n[-] End Time: ", time.strftime('%H:%M:%S')
               print("\n--- %s seconds ---" % (time.time() - start_time))
               sys.exit("Thank You !")
-      print "\n[!]",n,"-character finished in %s seconds ---" % (time.time() - start_time)
+      print "\n[!]",n,"-character finished in %s seconds ---" % (time.time() - characterstart_time)
    
 
 
