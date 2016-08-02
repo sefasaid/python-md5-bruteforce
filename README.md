@@ -26,6 +26,7 @@ paste your md5 string and hit enter
 ### Todos
 
  - make loading animation
+ - write to how many characters are
 
 ### Test
 ![Test Image](http://i.imgur.com/XzJVWyw.png)
