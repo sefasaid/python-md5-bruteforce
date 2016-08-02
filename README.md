@@ -25,8 +25,14 @@ paste your md5 string and hit enter
 
 ### Todos
 
- - Write Tests
  - make loading animation
+
+### Test
+![Test Image](http://imgur.com/a/ppMdY)
+
+## My Website
+[Sefasaiddeniz.com](http://sefasaiddeniz.com/)
+
 
 License
 ----
