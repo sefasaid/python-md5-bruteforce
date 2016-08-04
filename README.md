@@ -25,8 +25,9 @@ paste your md5 string and hit enter
 
 ### Todos
 
- - make loading animation
+ + make loading animation (done)
  + write to how many characters are (done)
+ - show how much passwords are tryed
 
 ### Test
 ![Test Image](http://i.imgur.com/XzJVWyw.png)
