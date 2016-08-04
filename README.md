@@ -21,7 +21,7 @@ $ add md5
 paste your md5 string and hit enter
 
 ### Version
- 0.2
+ 1.1
 
 ### Todos
 
