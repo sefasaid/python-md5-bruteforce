@@ -7,6 +7,12 @@ This is my first python script and first github repository. So if i did any mist
 
 Just clone script from my github page
 
+
+### Important!
+this code works only in python2. If you want run with python3 please use this
+https://github.com/rzumstein/python-md5-bruteforce
+Thanks to @rzumstein
+
 ### How To Run
 
 
