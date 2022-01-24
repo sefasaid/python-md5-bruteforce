@@ -33,13 +33,11 @@ paste your md5 string and hit enter
 
  + make loading animation (done)
  + write to how many characters are (done)
- - show how much passwords are tryed
+ - show how much passwords are tried
 
 ### Test
 ![Test Image](http://i.imgur.com/XzJVWyw.png)
 
-## My Website
-[Sefasaiddeniz.com](http://sefasaiddeniz.com/)
 
 
 License
@@ -47,6 +45,6 @@ License
 
 Completely Free
 
-**Free Software, Hell Yeah!**
+**Free Software**
 
  Thanks to       :  Agus Makmun (Summon Agus)
